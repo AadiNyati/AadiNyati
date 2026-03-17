@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aadi Nyati</h1>
+<h3 align="center">A newbie CS student from India</h3>
+
+- 🔭 I’m currently working on **a Space Invader clone**
+
 - 🌱 I’m currently learning **PyGame**
 
 - 📫 How to reach me **aadinyati@gmail.com**
